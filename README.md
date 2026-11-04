@@ -6,8 +6,8 @@
 **Professor:** M.Sc. Tiago Martins Ribeiro
 
 ## Integrantes
-- Integrante 1: [PREENCHER]
-- Integrante 2: [PREENCHER]
+- Integrante 1: [Damaris Adriele Santos Rodrigues]
+- Integrante 2: [Ana Karolina de Araujo Viana]
 
 ## Descrição
 Jogo da Velha para dois jogadores humanos, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
@@ -41,8 +41,8 @@ O tabuleiro tem 3 linhas e 3 colunas. Os jogadores alternam entre X e O. Cada jo
 - `main()`: controla o menu.
 
 ## Divisão de tarefas
-- Integrante 1: [PREENCHER COM AS FUNÇÕES REALMENTE DESENVOLVIDAS]
-- Integrante 2: [PREENCHER COM AS FUNÇÕES REALMENTE DESENVOLVIDAS]
+- Integrante 1: [Damaris Adriele Santos Rodrigues]
+- Integrante 2: [Ana Karolina de Araujo Viana]
 
 ## Entrega
 - Repositório GitHub: [INSERIR LINK REAL]
