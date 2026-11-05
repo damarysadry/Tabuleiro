@@ -6,8 +6,8 @@
 **Professor:** M.Sc. Tiago Martins Ribeiro
 
 ## Integrantes
-- Integrante 1: [Damaris Adriele Santos Rodrigues]
-- Integrante 2: [Ana Karolina de Araujo Viana]
+- Integrante 1: Damaris Adriele Santos Rodrigues
+- Integrante 2: Ana Karolina de Araujo Viana
 
 ## Descrição
 Jogo da Velha para dois jogadores humanos, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
