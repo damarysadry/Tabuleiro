@@ -6,11 +6,11 @@
 **Professor:** M.Sc. Tiago Martins Ribeiro
 
 ## Integrantes
-- Integrante 1: Damaris Adriele Santos Rodrigues
+- Integrante 1: Dâmaris Adriele Santos Rodrigues
 - Integrante 2: Ana Karolina de Araujo Viana
 
 ## Descrição
-Jogo da Velha para dois jogadores humanos, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
+Jogo da Velha para dois jogadores, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
 
 ## Como executar
 1. Instale o Python 3.
@@ -41,8 +41,8 @@ O tabuleiro tem 3 linhas e 3 colunas. Os jogadores alternam entre X e O. Cada jo
 - `main()`: controla o menu.
 
 ## Divisão de tarefas
-- Integrante 1: [Damaris Adriele Santos Rodrigues]
-- Integrante 2: [Ana Karolina de Araujo Viana]
+- Integrante 1: Dâmaris Adriele Santos Rodrigues
+- Integrante 2: Ana Karolina de Araujo Viana
 
 ## Entrega
 - Repositório GitHub: [INSERIR LINK REAL]
