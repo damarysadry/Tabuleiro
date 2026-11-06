@@ -1,4 +1,5 @@
 # JOGO DA VELHA - Trabalho da 3ª Avaliação
+# Aluna: Damaris Adriele Santos Rodrigues
 # Disciplina: Lógica, Algoritmos e Programação
 # Curso: Tecnologia em Banco de Dados
 # Faculdade PIT
