@@ -7,7 +7,6 @@
 
 ## Integrantes
 - Integrante: Dâmaris Adriele Santos Rodrigues
-(Trabalho realizado de forma individual)
 
 ## Descrição
 Jogo da Velha para dois jogadores, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
@@ -42,7 +41,6 @@ O tabuleiro tem 3 linhas e 3 colunas. Os jogadores alternam entre X e O. Cada jo
 
 ## Divisão de tarefas
 - Integrante: Dâmaris Adriele Santos Rodrigues
-  (foi responsavel por toda a construção do trabalho)
 
 ## Entrega
 - Repositório GitHub: https://github.com/damarysadry/Tabuleiro
