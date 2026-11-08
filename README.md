@@ -6,8 +6,8 @@
 **Professor:** M.Sc. Tiago Martins Ribeiro
 
 ## Integrantes
-- Integrante 1: Dâmaris Adriele Santos Rodrigues
-- Integrante 2: Ana Karolina de Araujo Viana
+- Integrante: Dâmaris Adriele Santos Rodrigues
+(Trabalho realizado de forma individual)
 
 ## Descrição
 Jogo da Velha para dois jogadores, executado no terminal. O programa possui menu, regras, validação das entradas, placar acumulado, histórico e campeonato melhor de 3.
@@ -41,11 +41,9 @@ O tabuleiro tem 3 linhas e 3 colunas. Os jogadores alternam entre X e O. Cada jo
 - `main()`: controla o menu.
 
 ## Divisão de tarefas
-- Integrante 1: Dâmaris Adriele Santos Rodrigues
-- Integrante 2: Ana Karolina de Araujo Viana
+- Integrante: Dâmaris Adriele Santos Rodrigues
+  (foi responsavel por toda a construção do trabalho)
 
 ## Entrega
-- Repositório GitHub: [INSERIR LINK REAL]
-- Vídeo não listado no YouTube: [INSERIR LINK REAL]
-
-**Atenção:** cada integrante deve realizar seus próprios commits, conforme as exigências do professor. O README e os links devem ser atualizados antes da entrega.
+- Repositório GitHub: [Aguardando link]
+- Vídeo não listado no YouTube: [Aguardando link]
