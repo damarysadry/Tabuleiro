@@ -44,4 +44,4 @@ O tabuleiro tem 3 linhas e 3 colunas. Os jogadores alternam entre X e O. Cada jo
 
 ## Entrega
 - Repositório GitHub: https://github.com/damarysadry/Tabuleiro
-- Vídeo não listado no YouTube: [Aguardando link]
+- Vídeo não listado no YouTube: (https://youtu.be/Fa4elvbBhGY)
